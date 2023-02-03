@@ -8,7 +8,8 @@ A quem sou extremamente grato.
 ***
 #### Cursos:  
 1. Linguagens de Programação 💻
-   1. Javascript  
+   1. Javascript 
+   2. Python (Básico)
 2. Linguagens de Marcação e outra linguagens 📋
    1. HTML5 (Introdução)
    3. CSS3 (Introduçaõ)
@@ -18,8 +19,7 @@ A quem sou extremamente grato.
    * Linux Básico
   
 Cronograma de Cursos 🎯
-- [x] Python - Cursando
-- [ ] HTLM e CSS
+- [x] HTLM e CSS - Cursando
 - [ ] Php
 - [ ] MySQL
 - [ ] C++
