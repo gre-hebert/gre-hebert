@@ -26,9 +26,9 @@ Cronograma de Cursos 🎯
 ---
 Nome | Observação | Conhecimento
 ---|---|---|
-HTML5 | Pretendo melhorar o meu conhecimento nessa linguaguem | Básico a Moderado |
+HTML5 | Pretendo melhorar o meu conhecimento nessa linguaguem | Básico a Moderado - Cursando |
 CSS3 | Também pretendo melhorar | Básico a Moderado |
 Javascript | Gostei muito, preciso entender melhor sobre POO | Básico
-Python | Até o momente é a minha linguagem favorita | Básico e cursando
+Python | Até o momente é a minha linguagem favorita | Básico
   
   ![Novo Projeto](https://user-images.githubusercontent.com/96366701/202116346-61b2d53d-8290-40b5-a730-c8d452367f93.png)
