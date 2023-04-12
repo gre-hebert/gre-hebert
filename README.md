@@ -19,15 +19,14 @@ A quem sou extremamente grato.
    * Linux Básico
   
 Cronograma de Cursos 🎯
-- [x] HTLM e CSS - Cursando
-- [ ] Php
+- [x] Php
 - [ ] MySQL
 - [ ] C++
 ---
 Nome | Observação | Conhecimento
 ---|---|---|
-HTML5 | Pretendo melhorar o meu conhecimento nessa linguaguem | Básico a Moderado - Cursando |
-CSS3 | Também pretendo melhorar | Básico a Moderado |
+HTML5 | Pretendo melhorar o meu conhecimento nessa linguaguem | Moderado|
+CSS3 | Também pretendo melhorar | Moderado |
 Javascript | Gostei muito, preciso entender melhor sobre POO | Básico
 Python | Até o momente é a minha linguagem favorita | Básico
   
