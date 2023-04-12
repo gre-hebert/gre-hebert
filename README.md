@@ -19,7 +19,7 @@ A quem sou extremamente grato.
    * Linux Básico
   
 Cronograma de Cursos 🎯
-- [x] Php
+- [x] Php - Cursando
 - [ ] MySQL
 - [ ] C++
 ---
